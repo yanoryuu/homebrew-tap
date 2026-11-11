@@ -1,6 +1,6 @@
 cask "cc-hub" do
-  version "0.2.4"
-  sha256 "04568236ca83d0a8e6397ab92232e3dd2731298609fbcefca16d5b86e2dc43fb"
+  version "0.2.5"
+  sha256 "3682248e50f1854c2bf48ad6b05af997f5085839e816236cfdf566335617fd87"
 
   url "https://github.com/yanoryuu/cc-hub-mac/releases/download/mac-v#{version}/CC-Hub-#{version}-arm64.dmg"
   name "CC Hub"
